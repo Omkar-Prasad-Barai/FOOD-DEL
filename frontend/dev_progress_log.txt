@@ -17,3 +17,4 @@ Dev Log 2025-09-12: Feature update #5
 Dev Log 2025-09-13: Feature update #1
 Dev Log 2025-09-13: Feature update #2
 Dev Log 2025-09-13: Feature update #3
+Dev Log 2025-09-13: Feature update #4
